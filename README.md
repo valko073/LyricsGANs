@@ -11,6 +11,7 @@ We want to fix this serious problem that humanity is facing. But, since writing 
 ## The Approach
 
 We will train a set of Generative Adversarial Networks to generate music in a given style. One network will generate new songs while the second network will try to distinguish between original and generated text. Although considered infeasible due to the discrete nature of text, recent approaches to tackle the problem have shown promising results (Guo et al., 2017; Press, Bar, Bogin, Berant, & Wolf, 2017; Wang, Qin, & Wan, 2017).
+The GAN code was adapted from https://github.com/amirbar/rnn.wgan (last reference)
 
 ## The Dataset
 Everybody knows, that to train the collection of if-statements commonly denoted as 'Neural Network' you need a lot of data. Luckily, the friendly people over at Kaggle have composed a [dataset of over 55 thousand english lyrics](https://www.kaggle.com/mousehead/songlyrics).
