@@ -14,7 +14,7 @@ We will train a set of Generative Adversarial Networks to generate music in a gi
 The GAN code was adapted from https://github.com/amirbar/rnn.wgan (last reference)
 
 ## The Dataset
-Everybody knows, that to train the collection of if-statements commonly denoted as 'Neural Network' you need a lot of data. Luckily, the friendly people over at Kaggle have composed a [dataset of over 55 thousand english lyrics](https://www.kaggle.com/mousehead/songlyrics).
+Everybody knows, that to train the collection of if-statements commonly denoted as 'Neural Network' you need a lot of data. Luckily, the friendly people over at Kaggle have composed a [dataset of over 380 thousand english lyrics](https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics/data).
 
 ## The Group
 This revolutionary project proposal was brought to you by:
@@ -26,8 +26,8 @@ Song Lyrics Generator
 https://www.song-lyrics-generator.org.uk/
 
 
-Lyrics for 55000+ songs in English from LyricsFreak
-https://www.kaggle.com/mousehead/songlyrics
+Lyrics for 380,000+ songs in English from MetroLyrics
+https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics/data
 
 
 Sutskever, Ilya, James Martens, and Geoffrey E. Hinton. "Generating text with recurrent neural networks." Proceedings of the 28th International Conference on Machine Learning (ICML-11). 2011.
